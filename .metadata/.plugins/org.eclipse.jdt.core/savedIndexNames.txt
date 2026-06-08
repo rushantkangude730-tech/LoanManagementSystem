@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\rusha\OneDrive\Documents\Microservices_Batch64\Exponent_LMS_Management\.metadata\.plugins\org.eclipse.jdt.core
+3873810622.index
+3122358467.index
+12186994.index
+862786994.index
+2659340489.index
+1909571791.index
+4104741246.index
+335211976.index
+3120624924.index
